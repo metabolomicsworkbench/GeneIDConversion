@@ -3,7 +3,7 @@ Conversion of one type of gene ID (such as SYMBOL or ENTREZ gene ID) into other 
 
 Genomic and gene expression data is integral to biomolecular data analysis. The types of identifiers used for genes differ across different resources providing such data sets. The ability to use a single type of gene identifier is imperative for integrating data from two or more resources. This gene ID conversion tool facilitates the use of a common gene identifier. A <a href="https://bdcw.org/MW/docs/geneid_conversion_20220822.pdf">tutorial</a> provides an overview and the steps of how to use this tool.
 
-This tool is available through the web at https://bdcw.org/geneid/geneidconv.php Gene ID Conversion</a> and also as a REST API 
+This tool is available through the web at <a href="https://bdcw.org/geneid/geneidconv.php">Gene ID Conversion</a> and also as a REST API 
 (<a href="https://smart-api.info/ui/e712b9eb07e637a00ae468f757ce2a1f">SmartAPI for Gene ID Conversion</a>). The SmartAPI page provides an explanation of the various parameters.
 
 ## For API-based access to integrate in user’s existing tools:
