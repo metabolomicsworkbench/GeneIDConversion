@@ -38,7 +38,7 @@ https://bdcw.org/geneid/rest/species/hsa/GeneIDType/REFSEQ/GeneListStr/NM_001318
 
 https://bdcw.org/geneid/rest/species/hsa/GeneIDType/ENSEMBL/GeneListStr/ENSG00000136244/USE_NCBI_GENE_INFO/0/View/json
 
-# Test on sc-cfdewebdev.sdsc.edu
+# Test on sc-cfdewebdev.sdsc.edu (intended for internal use)
 
 ## For REST API-based access to integrate in user’s existing tools:
 
