@@ -30,7 +30,7 @@ By default, the above use R package for respective species. Some times, these R 
 
 https://bdcw.org/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/AIM1/USE_NCBI_GENE_INFO/1/View/json
 
-https://bdcw.org/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/USE_NCBI_GENE_INFO/0/ITPR3__IL6__KLF4/View/json
+https://bdcw.org/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/ITPR3__IL6__KLF4/USE_NCBI_GENE_INFO/0/View/json
 
 https://bdcw.org/geneid/rest/species/hsa/GeneIDType/ENTREZID/GeneListStr/3710,10365,3592,5743/USE_NCBI_GENE_INFO/0/View/json
 
@@ -64,7 +64,7 @@ https://sc-cfdewebdev.sdsc.edu/geneid/rest/species/hsa/GeneIDType/ENSEMBL/GeneLi
 
 https://sc-cfdewebdev.sdsc.edu/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/AIM1/USE_NCBI_GENE_INFO/1/View/json
 
-https://sc-cfdewebdev.sdsc.edu/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/USE_NCBI_GENE_INFO/0/ITPR3__IL6__KLF4/View/json
+https://sc-cfdewebdev.sdsc.edu/geneid/rest/species/hsa/GeneIDType/SYMBOL_OR_ALIAS/GeneListStr/ITPR3__IL6__KLF4/USE_NCBI_GENE_INFO/0/View/json
 
 https://sc-cfdewebdev.sdsc.edu/geneid/rest/species/hsa/GeneIDType/ENTREZID/GeneListStr/3710,10365,3592,5743/USE_NCBI_GENE_INFO/0/View/json
 
